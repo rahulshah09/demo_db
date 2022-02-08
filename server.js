@@ -20,8 +20,8 @@ const fileStorageEngine = multer.diskStorage({
 
 const upload = multer({ storage: fileStorageEngine });
 /*
-app.get("/", (req, res) =>{
-    res.sendFile(path.join(__dirname, "index.html"));
+app.get("/", (req, res) => {
+    res.sendFile(path.join(__dirname, "index1.html"));
 });
 */
 app.post("/single", upload.single("image"), (req, res) => {
