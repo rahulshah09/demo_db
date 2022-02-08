@@ -1,1 +1,0 @@
-Listening for requests on port \\.\pipe\1c9cd891-f612-4459-b7b6-11add16dc741

@@ -1,0 +1,46 @@
+(node:13604) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+ReferenceError: path is not defined
+    at D:\nodejsprojects\DB_DEMO\server.js:24:18
+    at Layer.handle [as handle_request] (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\layer.js:95:5)
+    at D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\index.js:341:12)
+    at next (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\layer.js:95:5)
+ReferenceError: path is not defined
+    at D:\nodejsprojects\DB_DEMO\server.js:24:18
+    at Layer.handle [as handle_request] (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\layer.js:95:5)
+    at D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\index.js:341:12)
+    at next (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\layer.js:95:5)
+ReferenceError: path is not defined
+    at D:\nodejsprojects\DB_DEMO\server.js:24:18
+    at Layer.handle [as handle_request] (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\layer.js:95:5)
+    at D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\index.js:341:12)
+    at next (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\layer.js:95:5)
+ReferenceError: path is not defined
+    at D:\nodejsprojects\DB_DEMO\server.js:24:18
+    at Layer.handle [as handle_request] (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\layer.js:95:5)
+    at D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\index.js:341:12)
+    at next (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (D:\nodejsprojects\DB_DEMO\node_modules\express\lib\router\layer.js:95:5)
